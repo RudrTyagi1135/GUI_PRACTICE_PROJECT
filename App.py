@@ -97,7 +97,6 @@ class Nlp:
         self.dbo = Database()
         self.apio = Api()
 
-        # login GUI
         self.root = Tk()
         self.root.configure(bg='#b3b6b7')
         self.root.title('NLP App')
@@ -106,6 +105,8 @@ class Nlp:
 
         self.login_gui()
         self.root.mainloop()
+
+    # login GUI
 
     def login_gui(self):
         self.clear()
