@@ -210,7 +210,7 @@ This project helped build understanding of:
 
 ## 👤 Author
 
-**Rudra**
+**Rudra Tyagi**
 
 B.Tech Final Year Student  
 **ML Systems / MLOps Engineer**
